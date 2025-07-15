@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/movie-explorer-fa2582c5/frontend_react"
+}
